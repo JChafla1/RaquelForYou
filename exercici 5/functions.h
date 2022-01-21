@@ -1,0 +1,1 @@
+int llegirNum(char *);
